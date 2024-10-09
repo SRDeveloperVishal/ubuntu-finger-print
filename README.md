@@ -1,7 +1,7 @@
 # Enable all figure print senser with this bash file
 ## Step one clone
 ```
-https://github.com/SRDeveloperVishal/ubuntu-finger-print
+git clone https://github.com/SRDeveloperVishal/ubuntu-finger-print
 ```
 ## Step two run
 ```
