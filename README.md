@@ -1,4 +1,4 @@
-# Enable all figure print senser with this shell file
+# Enable all fingure print senser with this shell file
 ## Step one clone
 ```
 git clone https://github.com/SRDeveloperVishal/ubuntu-finger-print
